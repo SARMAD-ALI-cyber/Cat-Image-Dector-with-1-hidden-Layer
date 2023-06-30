@@ -60,4 +60,12 @@ The forward propagation is as follows but the function at first layer is Relu:
 **_Step-4:_**
 
 In the last step we will made a function called train model to call all our functions in order which we have made earlier.
+The overview is like this:
 
+
+
+
+https://github.com/SARMAD-ALI-cyber/Cat-Image-Dector-with-1-hidden-Layer/assets/113132683/d9c2e74a-3ce1-4504-8dda-35b43a3ca8e8
+
+**_NOTE!_**
+This project is an open source project and everyone is welcomed to make it more better it predicts some of the pictures wrong but overall the model have great accuracy.
